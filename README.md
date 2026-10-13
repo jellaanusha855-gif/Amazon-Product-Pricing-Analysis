@@ -73,18 +73,26 @@ Analyze listed prices and their distribution to understand how product prices va
 ### 2. Discount Analysis
 
 Explore discount percentages to understand the distribution of discounts offered on products.
+<img width="531" height="547" alt="image" src="https://github.com/user-attachments/assets/ce09858d-1eed-4c4a-8137-3d6d4ca80f23" />
+
 
 ### 3. Product Rating Analysis
 
 Examine product ratings to explore rating patterns and customer feedback.
+<img width="867" height="479" alt="image" src="https://github.com/user-attachments/assets/620e83b9-ff74-4734-a510-ed182c7d7ce6" />
+
 
 ### 4. Bestseller Analysis
 
 Compare average current or discounted prices across bestseller categories to explore pricing differences.
+<img width="846" height="556" alt="image" src="https://github.com/user-attachments/assets/7f3da857-b5d5-4c60-a23f-edf229f2c3b3" />
+
 
 ### 5. Coupon Availability Analysis
 
 Analyze the distribution of products with and without coupon availability.
+<img width="704" height="467" alt="image" src="https://github.com/user-attachments/assets/249e357f-176f-456b-8c19-72ef82f1f9b6" />
+
 
 ## 📊 Power BI Dashboard
 
